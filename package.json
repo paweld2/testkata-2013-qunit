@@ -1,0 +1,12 @@
+{
+    "name": "qunit-testkata"
+  , "description": "Qunit test kata project"
+  , "version": "0.0.1"
+  , "keywords": ["testkata,javascript"]
+  , "homepage": "http://test.kata.org.pl/"
+  , "author": "Paweł Cesar Sanjuan Szklarz"
+  , "devDependencies": {
+     "bower": "0.9.2",
+     "requirejs": "2.1.6"
+  }
+}

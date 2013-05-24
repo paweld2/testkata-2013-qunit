@@ -1,0 +1,12 @@
+{
+    "name": "QUnit test kata",
+    "version": "0.1",
+    "dependencies": {
+        "requirejs": "2.1.6",
+        "jquery": "1.9.1",
+        "underscore-amd": "1.4.4"
+    },
+    "devDependencies": {
+        "qunit": "v1.11.0"
+    }
+}
